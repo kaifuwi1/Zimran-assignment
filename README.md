@@ -11,6 +11,8 @@
 
 # Zimran-assignment
 
+Presentation: https://www.canva.com/design/DAGmCWGwX_o/tieNssOfgZl8pySyqJARqw/edit?utm_content=DAGmCWGwX_o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+\
 Links to deeper analysis:
   
   Task 1: https://www.notion.so/Test-1-1df334f611158073ab6cee8b822ff5ca?pvs=4

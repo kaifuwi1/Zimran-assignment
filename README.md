@@ -46,20 +46,18 @@ Zimran-assignment/
 └── README.md
 ```
 ### Description of directories and files
-dataset_facebook-ads-library-scraper_2025-04-26_16-34-01-155.csv - Dataset containg information about the creatives from Facebook ads
 
-Audio analysis.ipynb - Analysis of the audio of creatives
+| File/Directory                                      | Description                                                       |
+|-----------------------------------------------------|-------------------------------------------------------------------|
+| **Task 2/**| |
+| `dataset_facebook-ads-library-scraper_2025-04-26_16-34-01-155.csv` | Dataset containing information about the creatives from Facebook ads |
+| `Audio analysis.ipynb`                              | Analysis of the audio of creatives                                |
+| `Subtitles/`                                        | Subtitles extracted from videos                                   |
+| `combined_creative_analysis.txt`                    | Result of the Audio Analysis                                      |
+| `Basic analysis.ipynb`                              | Analysis of the video (Format, Duration, Content etc.)            |
+| `VIDEOS/`                                           | Folder containing top performing videos                            |
+| **Task 2/**                                      | |
+| `Task 3.ipynb`                                      | Analysis of the datasets                                          |
+| `Zimran.pbix`                                       | 2 dashboards for watching metrics                                 |
+| `dataset/`                                          | Folder containing 2 datasets                                      |
 
-Subtitles/ - Subtitles extracted from videos
-
-combined_creative_analysis.txt - Result of the Audio Analysis
-
-Basic analysis.ipynb - Analysis of the video (Format, Duration, Content etc.)
-
-VIDEOS/ - Folder containing top performing videos
-
-Task 3.ipynb - Analysis of the datasets
-
-Zimran.pbix - 2 dashboards for watching metric
-
-dataset/ - Folder containing 2 datasets
